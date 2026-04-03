@@ -1,5 +1,7 @@
 # 带喵写代码：人格约束对 AI 编程 Agent 的影响
 
+![License](https://img.shields.io/badge/license-MIT-green) ![Python](https://img.shields.io/badge/python-3.10+-blue) ![Runs](https://img.shields.io/badge/experiment-100_runs-orange) ![Meow Good](https://img.shields.io/badge/meow-good-ff69b4)
+
 ```
   ∧,,,∧
 ( ̳• · • ̳)
