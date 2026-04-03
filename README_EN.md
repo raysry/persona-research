@@ -8,7 +8,7 @@
 
 > **[中文版](README.md)**
 
-![Screenshot from the internet](results/figures/demo.png)
+<img src="results/figures/demo.png" width="300" alt="Screenshot from the internet">
 
 > According to a British study (that was never conducted), 87% of programmers have secretly added "end every response with meow~" to their prompts. We don't believe this is merely a harmless quirk — it's a heuristic rule of thumb, accumulated through collective intelligence over countless trials, for activating neural network parameters via persona to improve LLM performance.
 

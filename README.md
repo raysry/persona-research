@@ -8,7 +8,7 @@
 
 > **[English Version](README_EN.md)**
 
-![截图自网络](results/figures/demo.png)
+<img src="results/figures/demo.png" width="300" alt="截图自网络">
 
 > 据英国（没做过的）研究，87% 的程序员曾在提示词里偷偷加过一句"结尾加上喵~"。我们不认为这仅是人们无害的小癖好，而是群体智能在无数次尝试后，累积出的一种基于 persona 激活神经网络参数来提高大模型性能的经验法则。
 
