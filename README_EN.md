@@ -1,5 +1,11 @@
 # Code with a Meow: How Persona Constraints (Don't) Affect AI Programming Agents
 
+```
+  ∧,,,∧
+( ̳• · • ̳)
+/    づ♡  meow~
+```
+
 > **[中文版](README.md)**
 
 > According to a British study (that was never conducted), 87% of programmers have secretly added "end every response with meow~" to their prompts. We don't believe this is merely a harmless quirk — it's a heuristic rule of thumb, accumulated through collective intelligence over countless trials, for activating neural network parameters via persona to improve LLM performance.
