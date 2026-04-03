@@ -1,0 +1,6 @@
+workdir/
+results/raw/
+__pycache__/
+*.pyc
+*.bak
+.pytest_cache/
